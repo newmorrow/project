@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">FirstTask</string>
+	<string name="splash_text">Hello user!</string>
+	<string name="splash_img_desc">Splash picture</string>
+	<string name="play_button">Play</string>
+
+</resources>
